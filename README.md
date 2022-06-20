@@ -45,7 +45,7 @@
 </details>
 
 <br>
-Linkedin: www.linkedin.com/in/moh-ramadhanur-h-b4aa19166
+Linkedin: www.linkedin.com/in/moh-ramadhanur-h-b4aa19166/
 
 <!---
 mramadhanurh/mramadhanurh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
