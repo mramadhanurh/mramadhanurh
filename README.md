@@ -9,12 +9,26 @@
 - ⚡ Fun fact: I love to editing video/image and travelling
 - 📫 How to reach me **mramadhanur@gmail.com**
 
-<h4>Connect with me:</h4>
+<h4><b>Connect with me:</b></h4>
 
-<a href="https://biolinky.co/mramadhanurh" target="_blank"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="bash" width="22"/>
-<a href="https://youtube.com/channel/UC-GqTlLxKeP-G6BfY9YD8MQ" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="bash" width="22"/>
-<a href="https://linkedin.com/in/moh-ramadhanur-h-b4aa19166/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="bash" width="22"/>
-<a href="https://instagram.com/m.ramadhanur.h" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="bash" width="22"/>
+<p>
+<a href="mailto:mramadhanur@gmail.com">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://linkedin.com/in/moh-ramadhanur-h-b4aa19166/">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://youtube.com/channel/UC-GqTlLxKeP-G6BfY9YD8MQ">
+<img alt="Youtube" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+<a href="https://telegram.me/hives21">
+<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+<a href="https://www.instagram.com/mramadhanur_">
+<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</p>
 
 <br />
 
@@ -38,16 +52,15 @@
 
 <br>
 <br>
-<details>
-<summary><b>Activity 💻</b></summary>
-<br>
-  
-![Tomo top langs](https://github-readme-stats.vercel.app/api/top-langs?username=mramadhanurh&layout=compact&show_icons=true&theme=outrun)
 
-</details>
+## 📉 **My Github Statistics**
+
+![mramadhanurh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mramadhanurh&hide=contribs,prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mramadhanurh&layout=compact)
+
+![](https://komarev.com/ghpvc/?username=mramadhanurh)
 
 <br>
-Linkedin: www.linkedin.com/in/moh-ramadhanur-h-b4aa19166/
 
 <!---
 mramadhanurh/mramadhanurh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
