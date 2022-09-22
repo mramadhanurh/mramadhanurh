@@ -55,8 +55,15 @@
 
 ## 📉 **My Github Statistics**
 
-![mramadhanurh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mramadhanurh&hide=contribs,prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mramadhanurh&layout=compact)
+<p align="left">
+<img width="36.3%" src="https://github-readme-stats.vercel.app/api?username=mramadhanurh&show_icons=true&hide_border=true" />
+<img width="36.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=mramadhanurh&hide_border=true" />
+<img width="26.3%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mramadhanurh&layout=compact&langs_count=8&hide_border=true" />
+</p>
+
+<br>
+
+![Moh. Ramadhanur .H' Activity Graph](https://activity-graph.herokuapp.com/graph?username=mramadhanurh&hide_border=true&bg_color=ffffff&color=000&line=f28a00&point=f28a00)
 
 ![](https://komarev.com/ghpvc/?username=mramadhanurh)
 
