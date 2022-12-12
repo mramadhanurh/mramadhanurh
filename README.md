@@ -63,7 +63,9 @@
 
 <br>
 
-![Moh. Ramadhanur .H' Activity Graph](https://activity-graph.herokuapp.com/graph?username=mramadhanurh&hide_border=true&bg_color=ffffff&color=000&line=f28a00&point=f28a00)
+<!-- ![Moh. Ramadhanur .H' Activity Graph](https://activity-graph.herokuapp.com/graph?username=mramadhanurh&hide_border=true&bg_color=ffffff&color=000&line=f28a00&point=f28a00) -->
+
+![Moh. Ramadhanur .H' Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mramadhanurh&theme=tokyo-night)
 
 ![](https://komarev.com/ghpvc/?username=mramadhanurh)
 
