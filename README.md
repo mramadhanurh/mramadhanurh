@@ -1,6 +1,6 @@
 ![gif](https://i.pinimg.com/originals/61/71/81/6171819be4c31993357d758196c75701.gif)
 
-<h1 align="center">Hi there 👋,  I'm M Ramadhanur H</h1>
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;">,  I'm M Ramadhanur H</h1>
 <h3 align="center">A passionate Developer from Indonesia</h3>
 
 - 🌱 I’m currently learning everything
@@ -49,6 +49,8 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Postman" width="30px" src="https://user-images.githubusercontent.com/58316058/209884725-bd81b456-d8e3-4bc5-86b8-5d35d4eb7ef4.svg" />
+<img align="left" alt="Flutter" width="20px" src="https://user-images.githubusercontent.com/58316058/209885149-6a6c45ed-17f2-4aa9-a5b1-9be18db53461.svg" />
 
 <br>
 <br>
