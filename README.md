@@ -72,8 +72,6 @@
 
 ![](https://komarev.com/ghpvc/?username=mramadhanurh)
 
-![pokemon-unite-2414165](https://github.com/mramadhanurh/mramadhanurh/assets/58316058/fcea6322-a055-447c-a811-dcd06e36843d)
-
 
 <br>
 
