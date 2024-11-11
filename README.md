@@ -1,6 +1,7 @@
-![gif](https://i.pinimg.com/originals/61/71/81/6171819be4c31993357d758196c75701.gif)
+<img src="https://github.com/user-attachments/assets/4a3d29ea-ee8f-4987-b9c4-9396017ef929" alt="wallhaven-x8jq9l" width="500"/>
 
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;">,  I'm M Ramadhanur H</h1>
+
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;">,  I'm m.ramadhanur.h</h1>
 <h3 align="center">A passionate Developer from Indonesia</h3>
 
 - 🌱 I’m currently learning everything
