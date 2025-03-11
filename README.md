@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to editing video/image and travelling
 - 📫 How to reach me **mramadhanur@gmail.com**
 
@@ -73,7 +73,8 @@
 
 ![](https://komarev.com/ghpvc/?username=mramadhanurh)
 
-![contribution repository github](https://github.com/user-attachments/assets/e7382484-648e-456f-b20e-36f67fded73c)
+![contribution repository github2](https://github.com/user-attachments/assets/6d757f4a-083e-4dbd-8f14-82bbc200b787)
+
 
 <br>
 
