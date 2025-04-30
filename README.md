@@ -71,9 +71,10 @@
 <!-- ![Moh. Ramadhanur .H' Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mramadhanurh&theme=tokyo-night) -->
 [![Moh. Ramadhanur .H' Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mramadhanurh&theme=tokyo-night&area=true)](https://github.com/mramadhanurh)
 
-![](https://komarev.com/ghpvc/?username=mramadhanurh)
+![](https://komarev.com/ghpvc/?username=mramadhanurh&color=blueviolet)
 
-![contribution github](https://github.com/user-attachments/assets/e0492e92-1ad7-40e6-90f6-47d8b28e234b)
+![contribution github2](https://github.com/user-attachments/assets/f5352947-cf58-4b17-9c51-7e0b7552727d)
+
 
 
 
